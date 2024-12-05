@@ -1,0 +1,22 @@
+[
+  {
+    "name": "ID CARD AUTOMATION",
+    "desc": "The project Digital ID Card Generation Automation using UiPath is a transformative initiative aimed at revolutionizing identity management processes.",
+    "image": "ui",
+    "category": "Automation",
+    "links": {
+      "view": "https://www.linkedin.com/posts/rockgowtham_digital-id-card-automation-using-uipath-activity-7145388504582094848-RAz8?utm_source=share&utm_medium=member_desktop",
+      "code": "https://github.com/Rockgowtham/DIGITAL-ID-CARD-AUTOMATION-USING-UIPATH"
+    }
+  },
+  {
+    "name": "ANALYSIS OF NEET 2024 EXAMINATION DISCREPANCIES",
+    "desc": "Conducted an in-depth data analysis on the 2024 NEET examination to investigate reported discrepancies and anomalies. Using Python, I processed and analyzed a dataset of approximately 2.3 million records, focusing on data cleaning, anomaly detection, and visualization with libraries like Pandas, Matplotlib, and Seaborn",
+    "image": "da",
+    "category": "Data Analysis",
+    "links": {
+      "view": "https://www.linkedin.com/posts/rockgowtham_dataanalysis-neet2024-education-activity-7221209619212161027-W2aL?utm_source=share&utm_medium=member_desktop",
+      "code": "https://drive.google.com/file/d/1S5X5YBegGXDi51LAhYtbgB6VDxg-nPa-/view"
+    }
+  }
+]
